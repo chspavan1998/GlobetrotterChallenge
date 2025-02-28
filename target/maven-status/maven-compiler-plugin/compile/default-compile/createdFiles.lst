@@ -6,6 +6,7 @@ com\globetrotter\controller\DestinationController$AnswerResponse.class
 com\globetrotter\service\UserService.class
 com\globetrotter\controller\DestinationController.class
 com\globetrotter\repository\UserRepository.class
+com\globetrotter\config\OpenApiConfig.class
 com\globetrotter\DataSeeder$1.class
 com\globetrotter\DataSeeder.class
 com\globetrotter\GlobetrotterApplication.class

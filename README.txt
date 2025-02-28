@@ -32,7 +32,7 @@ Tech Stack
 Setup and Installation
 ----------------------
 1. Clone the Repository:
-   git clone https://github.com/chspavan/GlobetrotterChallenge.git
+   git clone https://github.com/chspavan1998/GlobetrotterChallenge.git
    cd GlobetrotterChallenge
 
 2. Build the Project:
