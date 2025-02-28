@@ -1,0 +1,34 @@
+[
+    {
+      "name": "Paris",
+      "clues": "City of Lights,Romantic vibes",
+      "funFacts": "Home of the Eiffel Tower,Hub of art and culture",
+      "trivia": "Known for its cafes,Historical significance in art"
+    },
+    {
+      "name": "London",
+      "clues": "Foggy, Big Ben",
+      "funFacts": "Famous for its red buses,Iconic Tower Bridge",
+      "trivia": "Rich history,Modern vibe"
+    },
+    {
+      "name": "New York",
+      "clues": "The Big Apple,City that never sleeps",
+      "funFacts": "Iconic Statue of Liberty,World-class museums",
+      "trivia": "Diverse culture,Skyscraper-filled skyline"
+    },
+    {
+      "name": "Tokyo",
+      "clues": "Neon lights,Ancient temples",
+      "funFacts": "Sushi capital,Technology hub",
+      "trivia": "Blend of tradition and modernity,Busy city life"
+    },
+    {
+      "name": "Sydney",
+      "clues": "Harbour city,Opera House",
+      "funFacts": "Beautiful beaches,Vibrant arts scene",
+      "trivia": "Outdoor lifestyle,Iconic landmarks"
+    }
+    
+  ]
+  
