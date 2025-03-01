@@ -7,4 +7,5 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface DestinationRepository extends JpaRepository<Destination, Long> {
     // Add custom queries if needed
+    boolean existsByName(String name);
 }

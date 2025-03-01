@@ -1,0 +1,803 @@
+[
+    {
+      "city": "Paris",
+      "country": "France",
+      "clues": [
+        "Paris is famous for its iconic Eiffel Tower that lights up at night.",
+        "Known as the City of Light and romance."
+      ],
+      "fun_fact": [
+        "The Eiffel Tower was initially intended as a temporary exhibit.",
+        "Paris has an extensive underground catacomb network."
+      ],
+      "trivia": [
+        "Paris hosts some of the world's most famous museums.",
+        "It is known for its chic fashion and gourmet cuisine."
+      ]
+    },
+    {
+      "city": "Tokyo",
+      "country": "Japan",
+      "clues": [
+        "Tokyo is known for its busy pedestrian crossings and neon lights.",
+        "A blend of ultramodern technology with traditional temples."
+      ],
+      "fun_fact": [
+        "Tokyo was once a small fishing village called Edo.",
+        "It is one of the world's most populous metropolitan areas."
+      ],
+      "trivia": [
+        "Tokyo's subway system is renowned for its punctuality.",
+        "The city offers a unique mix of ancient shrines and futuristic skyscrapers."
+      ]
+    },
+    {
+      "city": "New York",
+      "country": "USA",
+      "clues": [
+        "New York is famous for its towering skyscrapers and bustling streets.",
+        "Known as the 'Big Apple' and a global cultural hub."
+      ],
+      "fun_fact": [
+        "The Statue of Liberty was a gift from France.",
+        "Times Square is one of the most visited tourist attractions in the world."
+      ],
+      "trivia": [
+        "New York City has one of the largest subway systems globally.",
+        "It is home to world-renowned museums and Broadway theaters."
+      ]
+    },
+    {
+      "city": "London",
+      "country": "United Kingdom",
+      "clues": [
+        "London features historic landmarks like Big Ben and the Tower Bridge.",
+        "A city steeped in royal history and modern finance."
+      ],
+      "fun_fact": [
+        "London has more than 80 museums, many with free entry.",
+        "It is one of the world's most culturally diverse cities."
+      ],
+      "trivia": [
+        "The London Underground is the oldest metro system in the world.",
+        "London has hosted the Olympic Games three times."
+      ]
+    },
+    {
+      "city": "Sydney",
+      "country": "Australia",
+      "clues": [
+        "Sydney is famous for its Opera House and Harbour Bridge.",
+        "A vibrant city known for its sunny beaches and outdoor lifestyle."
+      ],
+      "fun_fact": [
+        "The Sydney Opera House took 14 years to build.",
+        "Sydney Harbour Bridge is affectionately nicknamed 'The Coathanger.'"
+      ],
+      "trivia": [
+        "Sydney is home to one of the largest natural harbors in the world.",
+        "It hosted the 2000 Summer Olympics."
+      ]
+    },
+    {
+      "city": "Rome",
+      "country": "Italy",
+      "clues": [
+        "Rome is an ancient city with ruins like the Colosseum and Forum.",
+        "It is known as the Eternal City."
+      ],
+      "fun_fact": [
+        "Rome has over 2,500 years of history.",
+        "It was the heart of the Roman Empire."
+      ],
+      "trivia": [
+        "Rome has a church (St. Peter’s Basilica) that is considered one of the holiest sites in Christianity.",
+        "It boasts a world-renowned culinary tradition."
+      ]
+    },
+    {
+      "city": "Berlin",
+      "country": "Germany",
+      "clues": [
+        "Berlin is known for its vibrant arts scene and historic sites.",
+        "A city that has reinvented itself after a turbulent history."
+      ],
+      "fun_fact": [
+        "The Berlin Wall once divided the city and has since been dismantled.",
+        "Berlin is famous for its street art and cultural festivals."
+      ],
+      "trivia": [
+        "Berlin has more bridges than Venice.",
+        "It is one of Europe's most innovative startup hubs."
+      ]
+    },
+    {
+      "city": "Madrid",
+      "country": "Spain",
+      "clues": [
+        "Madrid is known for its lively plazas and world-class art museums.",
+        "A city with a rich history and a passion for football."
+      ],
+      "fun_fact": [
+        "Madrid is home to the Prado Museum, one of the finest art galleries in the world.",
+        "The city never truly sleeps and has a vibrant nightlife."
+      ],
+      "trivia": [
+        "Madrid is one of the highest capital cities in Europe by altitude.",
+        "Its culinary scene is celebrated for tapas and traditional Spanish dishes."
+      ]
+    },
+    {
+      "city": "Beijing",
+      "country": "China",
+      "clues": [
+        "Beijing is famous for its historical sites like the Forbidden City.",
+        "A city that blends ancient traditions with modern developments."
+      ],
+      "fun_fact": [
+        "Beijing hosted the 2008 Summer Olympics.",
+        "It is home to one of the world's largest palace complexes."
+      ],
+      "trivia": [
+        "The Great Wall is easily accessible from Beijing.",
+        "Beijing is known for its Peking duck cuisine."
+      ]
+    },
+    {
+      "city": "Shanghai",
+      "country": "China",
+      "clues": [
+        "Shanghai is known for its futuristic skyline and bustling waterfront.",
+        "A major financial hub in Asia."
+      ],
+      "fun_fact": [
+        "Shanghai's Bund area features a stunning mix of colonial architecture.",
+        "It is one of the world's busiest ports."
+      ],
+      "trivia": [
+        "Shanghai is often dubbed the 'Paris of the East'.",
+        "The city hosts some of the most impressive skyscrapers in Asia."
+      ]
+    },
+    {
+      "city": "Singapore",
+      "country": "Singapore",
+      "clues": [
+        "Singapore is renowned for its clean streets and modern infrastructure.",
+        "A city-state known for its efficient public transport and gardens."
+      ],
+      "fun_fact": [
+        "Singapore is one of the world's most densely populated countries.",
+        "It features the iconic Marina Bay Sands resort."
+      ],
+      "trivia": [
+        "The city has a diverse multicultural population.",
+        "Singapore is famous for its strict laws and high standards of cleanliness."
+      ]
+    },
+    {
+      "city": "Los Angeles",
+      "country": "USA",
+      "clues": [
+        "Los Angeles is the heart of the entertainment industry.",
+        "Known for its sprawling cityscape and iconic Hollywood sign."
+      ],
+      "fun_fact": [
+        "LA is home to more than 100 museums.",
+        "It has a diverse cultural scene influenced by immigrants from around the world."
+      ],
+      "trivia": [
+        "The city has a Mediterranean climate and year-round sunshine.",
+        "Los Angeles is one of the largest cities by area in the USA."
+      ]
+    },
+    {
+      "city": "Chicago",
+      "country": "USA",
+      "clues": [
+        "Chicago is famous for its impressive skyline and deep-dish pizza.",
+        "Known as the 'Windy City' with a rich architectural history."
+      ],
+      "fun_fact": [
+        "Chicago hosted the World's Fair in 1893.",
+        "The city is renowned for its blues music scene."
+      ],
+      "trivia": [
+        "It has one of the largest urban parks in the United States.",
+        "Chicago is also known for its groundbreaking skyscraper designs."
+      ]
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "clues": [
+        "Toronto is the largest city in Canada and known for its multicultural vibe.",
+        "It boasts a vibrant arts scene and impressive skyline."
+      ],
+      "fun_fact": [
+        "Toronto is home to the CN Tower, one of the tallest freestanding structures in the world.",
+        "The city hosts numerous film festivals throughout the year."
+      ],
+      "trivia": [
+        "It is often considered one of the most livable cities in the world.",
+        "Toronto has a diverse culinary scene with influences from around the globe."
+      ]
+    },
+    {
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "clues": [
+        "Amsterdam is famous for its canal system and historic narrow houses.",
+        "Known for its relaxed culture and vibrant art scene."
+      ],
+      "fun_fact": [
+        "Amsterdam has more bicycles than residents.",
+        "It is one of the most visited cities in Europe."
+      ],
+      "trivia": [
+        "The city is home to the Van Gogh Museum.",
+        "It is renowned for its liberal policies and unique culture."
+      ]
+    },
+    {
+      "city": "Dubai",
+      "country": "UAE",
+      "clues": [
+        "Dubai is known for its ultramodern architecture and luxury shopping.",
+        "A city famous for its towering skyscrapers and extravagant lifestyle."
+      ],
+      "fun_fact": [
+        "Dubai is home to the world’s tallest building, the Burj Khalifa.",
+        "It has an artificial island shaped like a palm tree."
+      ],
+      "trivia": [
+        "The city has a rapidly growing tourism sector.",
+        "Dubai hosts international events and exhibitions regularly."
+      ]
+    },
+    {
+      "city": "Barcelona",
+      "country": "Spain",
+      "clues": [
+        "Barcelona is celebrated for its unique Gaudí architecture and Mediterranean vibe.",
+        "A coastal city known for its beaches and lively street culture."
+      ],
+      "fun_fact": [
+        "La Sagrada Família has been under construction for over a century.",
+        "Barcelona hosted the 1992 Summer Olympics."
+      ],
+      "trivia": [
+        "The city has a rich history that blends Roman and modern influences.",
+        "It is a center for art, design, and architecture."
+      ]
+    },
+    {
+      "city": "San Francisco",
+      "country": "USA",
+      "clues": [
+        "San Francisco is known for its iconic Golden Gate Bridge and hilly streets.",
+        "A city famous for its diverse culture and tech innovation."
+      ],
+      "fun_fact": [
+        "The city was largely rebuilt after the 1906 earthquake.",
+        "It is a major hub for the tech industry in Silicon Valley."
+      ],
+      "trivia": [
+        "San Francisco is one of the most photographed cities in the world.",
+        "It is renowned for its historic cable cars."
+      ]
+    },
+    {
+      "city": "Vienna",
+      "country": "Austria",
+      "clues": [
+        "Vienna is famous for its classical music heritage and elegant architecture.",
+        "A city known for its coffee culture and imperial history."
+      ],
+      "fun_fact": [
+        "Vienna was home to many great composers like Mozart and Beethoven.",
+        "The city has a rich tradition of coffee house culture."
+      ],
+      "trivia": [
+        "Vienna consistently ranks as one of the world's most livable cities.",
+        "It hosts numerous classical concerts throughout the year."
+      ]
+    },
+    {
+      "city": "Prague",
+      "country": "Czech Republic",
+      "clues": [
+        "Prague is renowned for its medieval architecture and charming old town.",
+        "Often called 'the City of a Hundred Spires.'"
+      ],
+      "fun_fact": [
+        "Prague Castle is one of the largest ancient castles in the world.",
+        "The city is famous for its historic bridges over the Vltava River."
+      ],
+      "trivia": [
+        "Prague has a thriving arts and literature scene.",
+        "It is known for its beer culture and lively pubs."
+      ]
+    },
+    {
+      "city": "Budapest",
+      "country": "Hungary",
+      "clues": [
+        "Budapest is famous for its thermal baths and stunning architecture.",
+        "A city split by the Danube River into two distinct parts."
+      ],
+      "fun_fact": [
+        "Budapest has over 100 thermal springs.",
+        "The city is often called the 'Pearl of the Danube.'"
+      ],
+      "trivia": [
+        "It is known for its vibrant nightlife and ruin bars.",
+        "Budapest boasts a rich history dating back to Roman times."
+      ]
+    },
+    {
+      "city": "Istanbul",
+      "country": "Turkey",
+      "clues": [
+        "Istanbul straddles two continents, Europe and Asia.",
+        "A city with a deep historical and cultural legacy."
+      ],
+      "fun_fact": [
+        "Istanbul was formerly known as Byzantium and Constantinople.",
+        "The city is famous for its majestic mosques and bazaars."
+      ],
+      "trivia": [
+        "It is the only city in the world located on two continents.",
+        "Istanbul is a major cultural and economic center in Turkey."
+      ]
+    },
+    {
+      "city": "Mumbai",
+      "country": "India",
+      "clues": [
+        "Mumbai is the heart of India's Bollywood film industry.",
+        "A bustling metropolis known for its vibrant street life."
+      ],
+      "fun_fact": [
+        "Mumbai is the most populous city in India.",
+        "It is a major financial hub in the country."
+      ],
+      "trivia": [
+        "The city is famous for its diverse cuisine and local markets.",
+        "Mumbai was formerly known as Bombay."
+      ]
+    },
+    {
+      "city": "Delhi",
+      "country": "India",
+      "clues": [
+        "Delhi is a city steeped in history with landmarks from various eras.",
+        "A bustling metropolis that combines the old with the new."
+      ],
+      "fun_fact": [
+        "Delhi has been continuously inhabited since at least the 6th century BCE.",
+        "It features a rich tapestry of cultural influences."
+      ],
+      "trivia": [
+        "The city hosts some of India's most important historical monuments.",
+        "Delhi is known for its street food and vibrant markets."
+      ]
+    },
+    {
+      "city": "Seoul",
+      "country": "South Korea",
+      "clues": [
+        "Seoul is a high-tech metropolis with a rich traditional heritage.",
+        "Known for its palaces and modern skyscrapers."
+      ],
+      "fun_fact": [
+        "Seoul is one of the most wired cities in the world.",
+        "It has a dynamic mix of ancient traditions and modern technology."
+      ],
+      "trivia": [
+        "The city is famous for its pop culture and K-pop music.",
+        "Seoul boasts an extensive subway system."
+      ]
+    },
+    {
+      "city": "Hong Kong",
+      "country": "China",
+      "clues": [
+        "Hong Kong is known for its impressive skyline and bustling harbor.",
+        "A major global financial center with a unique blend of East and West."
+      ],
+      "fun_fact": [
+        "Hong Kong has one of the highest population densities in the world.",
+        "It was a British colony until 1997."
+      ],
+      "trivia": [
+        "The city is famous for its street food and vibrant markets.",
+        "Hong Kong's Peak offers breathtaking views of the city."
+      ]
+    },
+    {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "clues": [
+        "Bangkok is famous for its ornate shrines and vibrant street life.",
+        "A city where modern skyscrapers sit alongside ancient temples."
+      ],
+      "fun_fact": [
+        "Bangkok is known as the 'City of Angels.'",
+        "It has one of the most exciting street food scenes in the world."
+      ],
+      "trivia": [
+        "The city is a major tourist destination in Southeast Asia.",
+        "Bangkok is known for its bustling markets and nightlife."
+      ]
+    },
+    {
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "clues": [
+        "Kuala Lumpur is known for its iconic Petronas Twin Towers.",
+        "A melting pot of cultures in the heart of Malaysia."
+      ],
+      "fun_fact": [
+        "The Petronas Twin Towers were the tallest buildings in the world from 1998 to 2004.",
+        "KL is known for its vibrant food scene and cultural diversity."
+      ],
+      "trivia": [
+        "Kuala Lumpur serves as Malaysia's financial and cultural hub.",
+        "The city boasts a mix of modern and colonial architecture."
+      ]
+    },
+    {
+      "city": "Lisbon",
+      "country": "Portugal",
+      "clues": [
+        "Lisbon is known for its picturesque streets and historic trams.",
+        "A city with a rich maritime history and vibrant culture."
+      ],
+      "fun_fact": [
+        "Lisbon is one of the oldest cities in Europe.",
+        "It is built on seven hills, offering breathtaking views."
+      ],
+      "trivia": [
+        "Lisbon is famous for its traditional Fado music.",
+        "The city features a unique mix of traditional and modern architecture."
+      ]
+    },
+    {
+      "city": "Athens",
+      "country": "Greece",
+      "clues": [
+        "Athens is the cradle of Western civilization with ancient ruins around every corner.",
+        "Known for the Acropolis and historic sites."
+      ],
+      "fun_fact": [
+        "Athens is one of the world's oldest cities, with a history spanning over 3,400 years.",
+        "It was once home to some of the greatest philosophers."
+      ],
+      "trivia": [
+        "The city is famous for its ancient monuments and museums.",
+        "Athens is a center for art, culture, and philosophy."
+      ]
+    },
+    {
+      "city": "Moscow",
+      "country": "Russia",
+      "clues": [
+        "Moscow is known for its grand architecture and Red Square.",
+        "A city that serves as the political, economic, and cultural center of Russia."
+      ],
+      "fun_fact": [
+        "The Kremlin, a historic fortified complex, is located in Moscow.",
+        "Moscow has one of the busiest metro systems in the world."
+      ],
+      "trivia": [
+        "The city is famous for its onion domes and elaborate palaces.",
+        "Moscow hosts numerous cultural festivals throughout the year."
+      ]
+    },
+    {
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "clues": [
+        "Buenos Aires is known as the 'Paris of South America' due to its European-style architecture.",
+        "A city famous for its tango music and dance."
+      ],
+      "fun_fact": [
+        "The city is home to numerous theaters and cultural centers.",
+        "Buenos Aires is renowned for its vibrant nightlife."
+      ],
+      "trivia": [
+        "It has a rich history influenced by European immigrants.",
+        "The city is a major cultural hub in Latin America."
+      ]
+    },
+    {
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "clues": [
+        "Rio de Janeiro is famous for its breathtaking landscape and Carnival festivities.",
+        "Home to the iconic Christ the Redeemer statue."
+      ],
+      "fun_fact": [
+        "Rio was the capital of Brazil until 1960.",
+        "Its beaches, such as Copacabana, are world-famous."
+      ],
+      "trivia": [
+        "The city is known for its lively samba music and dance.",
+        "Rio hosted the 2016 Summer Olympics."
+      ]
+    },
+    {
+      "city": "Mexico City",
+      "country": "Mexico",
+      "clues": [
+        "Mexico City is one of the largest cities in the world and rich in history.",
+        "A vibrant metropolis with a blend of ancient and modern influences."
+      ],
+      "fun_fact": [
+        "It is built on the ruins of the Aztec capital Tenochtitlan.",
+        "Mexico City is known for its culinary diversity."
+      ],
+      "trivia": [
+        "The city features numerous museums and cultural landmarks.",
+        "It is a major center for arts and education in Latin America."
+      ]
+    },
+    {
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "clues": [
+        "Johannesburg is the economic powerhouse of South Africa.",
+        "Known for its vibrant urban culture and history."
+      ],
+      "fun_fact": [
+        "It is one of the world's largest cities by population.",
+        "The city has a rich history tied to the gold mining industry."
+      ],
+      "trivia": [
+        "Johannesburg is nicknamed 'Jozi' by locals.",
+        "It is a major hub for commerce and industry in Africa."
+      ]
+    },
+    {
+      "city": "Nairobi",
+      "country": "Kenya",
+      "clues": [
+        "Nairobi is known as the 'Green City in the Sun' due to its greenery.",
+        "A gateway to African wildlife and national parks."
+      ],
+      "fun_fact": [
+        "Nairobi is the only major city in the world with a national park at its doorstep.",
+        "It has a diverse mix of cultures and traditions."
+      ],
+      "trivia": [
+        "The city is a major center for business and technology in Africa.",
+        "Nairobi is known for its vibrant markets and cuisine."
+      ]
+    },
+    {
+      "city": "Cairo",
+      "country": "Egypt",
+      "clues": [
+        "Cairo is the largest city in the Arab world, rich in ancient history.",
+        "Home to the Great Pyramids of Giza and the Sphinx."
+      ],
+      "fun_fact": [
+        "Cairo is often called the 'City of a Thousand Minarets'.",
+        "It has a vibrant bazaar culture centered around Khan El Khalili."
+      ],
+      "trivia": [
+        "The Egyptian Museum in Cairo holds countless ancient artifacts.",
+        "Cairo has been continuously inhabited for over a millennium."
+      ]
+    },
+    {
+      "city": "Casablanca",
+      "country": "Morocco",
+      "clues": [
+        "Casablanca is known for its modern architecture and vibrant urban life.",
+        "A major economic hub on the Atlantic coast of Morocco."
+      ],
+      "fun_fact": [
+        "Casablanca is famous from the classic film of the same name.",
+        "It features a mix of traditional Moroccan and modern French influences."
+      ],
+      "trivia": [
+        "The city is home to one of the largest mosques in Africa.",
+        "Casablanca is a gateway to exploring Moroccan culture and cuisine."
+      ]
+    },
+    {
+      "city": "Montreal",
+      "country": "Canada",
+      "clues": [
+        "Montreal is known for its vibrant arts scene and French-Canadian heritage.",
+        "A city celebrated for its festivals and multicultural vibe."
+      ],
+      "fun_fact": [
+        "Montreal hosts one of the largest jazz festivals in the world.",
+        "It is a major center for film and visual arts in Canada."
+      ],
+      "trivia": [
+        "The city is renowned for its culinary scene, particularly its poutine.",
+        "Montreal is one of the largest French-speaking cities in the world."
+      ]
+    },
+    {
+      "city": "Vancouver",
+      "country": "Canada",
+      "clues": [
+        "Vancouver is famous for its stunning natural scenery and outdoor activities.",
+        "A coastal city known for its mild climate and diverse culture."
+      ],
+      "fun_fact": [
+        "Vancouver frequently ranks among the most livable cities in the world.",
+        "It is a major hub for film production in Canada."
+      ],
+      "trivia": [
+        "The city offers easy access to mountains, forests, and the Pacific Ocean.",
+        "Vancouver is known for its eco-friendly initiatives and vibrant arts scene."
+      ]
+    },
+    {
+      "city": "Stockholm",
+      "country": "Sweden",
+      "clues": [
+        "Stockholm is spread across 14 islands, connected by over 50 bridges.",
+        "A city known for its clean design and rich history."
+      ],
+      "fun_fact": [
+        "Stockholm was founded in the 13th century.",
+        "It is one of the most modern cities with a deep-rooted cultural heritage."
+      ],
+      "trivia": [
+        "The city is famous for its innovative design and fashion.",
+        "Stockholm is often regarded as one of the world's greenest cities."
+      ]
+    },
+    {
+      "city": "Oslo",
+      "country": "Norway",
+      "clues": [
+        "Oslo is known for its museums, green spaces, and fjord setting.",
+        "A city that offers a mix of urban culture and natural beauty."
+      ],
+      "fun_fact": [
+        "Oslo is one of the fastest-growing cities in Scandinavia.",
+        "The city is renowned for its maritime history."
+      ],
+      "trivia": [
+        "Oslo hosts numerous festivals celebrating music and art.",
+        "It is known for its sustainable urban development."
+      ]
+    },
+    {
+      "city": "Helsinki",
+      "country": "Finland",
+      "clues": [
+        "Helsinki is celebrated for its modern design and proximity to nature.",
+        "A city known for its saunas and innovative architecture."
+      ],
+      "fun_fact": [
+        "Helsinki is often ranked among the happiest cities in the world.",
+        "It has a strong connection with the sea and beautiful archipelagos."
+      ],
+      "trivia": [
+        "The city has a unique blend of Eastern and Western influences.",
+        "Helsinki is known for its vibrant arts scene and festivals."
+      ]
+    },
+    {
+      "city": "Zurich",
+      "country": "Switzerland",
+      "clues": [
+        "Zurich is Switzerland's largest city and a global financial center.",
+        "Known for its pristine lakes and high quality of life."
+      ],
+      "fun_fact": [
+        "Zurich consistently ranks as one of the world's most livable cities.",
+        "It is home to numerous international organizations and banks."
+      ],
+      "trivia": [
+        "The city is renowned for its precision in finance and innovation.",
+        "Zurich has a rich history dating back to Roman times."
+      ]
+    },
+    {
+      "city": "Milan",
+      "country": "Italy",
+      "clues": [
+        "Milan is recognized as a global fashion and design capital.",
+        "A city that blends historic architecture with modern industry."
+      ],
+      "fun_fact": [
+        "Milan hosts one of the world's biggest fashion weeks.",
+        "It is a hub for art, finance, and commerce in Italy."
+      ],
+      "trivia": [
+        "Milan is famous for its culinary specialties such as risotto.",
+        "The city has a rich cultural scene with numerous art galleries."
+      ]
+    },
+    {
+      "city": "Lima",
+      "country": "Peru",
+      "clues": [
+        "Lima is known for its historic colonial architecture and vibrant culture.",
+        "A coastal city that blends tradition with modernity."
+      ],
+      "fun_fact": [
+        "Lima is one of the largest cities in South America.",
+        "It has a rich culinary heritage, especially known for its ceviche."
+      ],
+      "trivia": [
+        "The city is a gateway to exploring ancient Incan sites.",
+        "Lima has a vibrant arts and music scene."
+      ]
+    },
+    {
+      "city": "Santiago",
+      "country": "Chile",
+      "clues": [
+        "Santiago is nestled in a valley surrounded by the Andes Mountains.",
+        "A city known for its vibrant culture and modern architecture."
+      ],
+      "fun_fact": [
+        "Santiago is Chile's political and economic center.",
+        "It has a rich history dating back to the Spanish colonial era."
+      ],
+      "trivia": [
+        "The city offers excellent skiing and outdoor adventures nearby.",
+        "Santiago is known for its dynamic art and culinary scenes."
+      ]
+    },
+    {
+      "city": "Bogota",
+      "country": "Colombia",
+      "clues": [
+        "Bogota is a high-altitude city known for its rich history and culture.",
+        "A hub of art and literature in Colombia."
+      ],
+      "fun_fact": [
+        "Bogota features a blend of colonial and modern architecture.",
+        "It is home to one of the largest collections of modern art in Latin America."
+      ],
+      "trivia": [
+        "The city hosts numerous cultural festivals throughout the year.",
+        "Bogota is known for its dynamic street art scene."
+      ]
+    },
+    {
+      "city": "Manila",
+      "country": "Philippines",
+      "clues": [
+        "Manila is a bustling metropolis with a rich colonial history.",
+        "A gateway to the diverse cultures of the Philippines."
+      ],
+      "fun_fact": [
+        "Manila was the center of Spanish colonial activity in Asia.",
+        "It features a mix of modern skyscrapers and historical landmarks."
+      ],
+      "trivia": [
+        "The city is known for its vibrant festivals and street food.",
+        "Manila is a major center for commerce and education in the region."
+      ]
+    },
+    {
+      "city": "Melbourne",
+      "country": "Australia",
+      "clues": [
+        "Melbourne is celebrated for its vibrant arts scene and cultural diversity.",
+        "A city known for its coffee culture and lively sporting events."
+      ],
+      "fun_fact": [
+        "Melbourne consistently ranks as one of the world's most livable cities.",
+        "It is known for hosting major international sports events."
+      ],
+      "trivia": [
+        "The city is famous for its street art and dynamic music scene.",
+        "Melbourne has a rich history of film and theater."
+      ]
+    }
+  ]
+  
