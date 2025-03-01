@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: GlobetrotterChallenge
+    env: java
+    buildCommand: "mvn clean package"
+    startCommand: "java -jar target/globetrotter-0.0.1-SNAPSHOT.jar"
